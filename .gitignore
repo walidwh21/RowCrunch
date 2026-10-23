@@ -1,0 +1,6 @@
+# generated data and build output
+/data/*.csv
+/data/*.zip
+/data/runs.log
+/bin/
+.env
